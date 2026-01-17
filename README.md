@@ -120,10 +120,3 @@ Open the `.pbix` file in **Power BI Desktop**.
 Inspired by real-world e-commerce analytics and BI reporting practices.
 
 ---
-
-## 📫 Contact
-
-**Umang Garg**  
-📧 Email: umanggarg0210@gmail.com  
-🔗 LinkedIn: linkedin.com/in/umanggarg0210  
-🐙 GitHub: github.com/Umang0210
